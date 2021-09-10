@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Andriy_Kalashnykov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andriykalashnykov///)](https://www.linkedin.com/in/andriykalashnykov/)
   
-![github stats](https://github-readme-stats.vercel.app/api?username=AndriyKalashnykov&show_icons=true&theme=github_dark)
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKalashnykov&layout=compact&theme=github_dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=AndriyKalashnykov&show_icons=true&theme=vue-dark)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKalashnykov&layout=compact&theme=vue-dark)
 
 <!--
 **AndriyKalashnykov/andriykalashnykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
