@@ -1,4 +1,5 @@
-
+[![Linkedin Badge](https://img.shields.io/badge/-Andriy_Kalashnykov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andriykalashnykov///)](https://www.linkedin.com/in/andriykalashnykov/)
+  
 ![github stats](https://github-readme-stats.vercel.app/api?username=AndriyKalashnykov&show_icons=true)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKalashnykov&layout=compact)
 
