@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/andriykalashnykov/count.svg" />
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/andriykalashnykov/andriykalashnykov)
+[![Visits Badge](https://badges.pufler.dev/visits/andriykalashnykov/andriykalashnykov)]
 
 <!--
 **AndriyKalashnykov/andriykalashnykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
