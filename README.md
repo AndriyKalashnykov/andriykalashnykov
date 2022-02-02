@@ -3,6 +3,10 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=AndriyKalashnykov&show_icons=true&theme=graywhite)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKalashnykov&layout=compact&theme=graywhite)
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/andriykalashnykov/count.svg" />
+</p>
 <!--
 **AndriyKalashnykov/andriykalashnykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
