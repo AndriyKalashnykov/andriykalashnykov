@@ -6,7 +6,7 @@
 <!-- https://hits.seeyoufarm.com/#badge -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAndriyKalashnykov&count_bg=%2333CD56&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![An image of @andriykalashnykov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andriykalashnykov)](https://holopin.io/@andriykalashnykov)
+[![An image of @andriykalashnykov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andriykalashnykov#badges)](https://holopin.io/@andriykalashnykov#badges)
 <!--
 **AndriyKalashnykov/andriykalashnykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
