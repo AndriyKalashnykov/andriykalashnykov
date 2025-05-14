@@ -3,8 +3,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=AndriyKalashnykov&show_icons=true&theme=graywhite)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKalashnykov&layout=compact&exclude_repo=osxcross-target&theme=graywhite&hide=html,groovy,xslt,css,javascript,C,Cxx,Cpp,c++,R,Roff,Ruby,Rez,Objective-c,python&langs_count=6)
 
-<!-- https://hits.seeyoufarm.com/#badge -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAndriyKalashnykov&count_bg=%2333CD56&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/AndriyKalashnykov/andriykalashnykov/hits.svg)](https://hits.sh/github.com/AndriyKalashnykov/andriykalashnykov/hits/)
 
 <!--
 **AndriyKalashnykov/andriykalashnykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
