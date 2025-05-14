@@ -1,6 +1,6 @@
 <h2>
   Andriy Kalashnykov
- <a href="https://hits.sh/github.com/AndriyKalashnykov/"><img alt="Hits" src="https://hits.sh/github.com/silentsoft.svg?view=today-total&logo=github&style=plastic" align="right"/></a>
+ <a href="https://hits.sh/github.com/AndriyKalashnykov/"><img alt="Hits" src="https://hits.sh/github.com/AndriyKalashnykov.svg?view=today-total&logo=github&style=plastic" align="right"/></a>
   
 </h2>
   
