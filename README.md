@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Andriy_Kalashnykov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andriykalashnykov///)](https://www.linkedin.com/in/andriykalashnykov/)
+[![Hits](https://hits.sh/github.com/AndriyKalashnykov/andriykalashnykov/hits.svg)](https://hits.sh/github.com/AndriyKalashnykov/andriykalashnykov/hits/)
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=AndriyKalashnykov&show_icons=true&theme=graywhite)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKalashnykov&layout=compact&exclude_repo=osxcross-target&theme=graywhite&hide=html,groovy,xslt,css,javascript,C,Cxx,Cpp,c++,R,Roff,Ruby,Rez,Objective-c,python&langs_count=6)
