@@ -1,22 +1,19 @@
-## Andriy Kalashnykov
+# My Project
 
-<a href="https://hits.sh/github.com/AndriyKalashnykov/"><img alt="Hits" src="https://hits.sh/github.com/AndriyKalashnykov.svg?view=today-total&logo=github&style=plastic" align="right"/></a>
+This repository contains projects and experiments related to my learning journey in software development and data science.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AndriyKalashnykov&show_icons=true&theme=graywhite)
+## Features
+- **Projects**: Various coding projects to demonstrate skills.
+- **Experiments**: Data science experiments and analysis.
 
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKalashnykov&layout=compact&exclude_repo=osxcross-target&theme=graywhite&hide=html,groovy,xslt,css,javascript,C,Cpp,c++,R,Roff,Ruby,Rez,Objective-c,python&langs_count=6)
+## Statistics
+- **Total Projects**: 42
+- **Total Commits**: 150
+- **Contributors**: 5
 
-<!--
-**AndriyKalashnykov/andriykalashnykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+- **Email**: andriy@example.com
+- **GitHub**: [AndriyKalashnykov](https://github.com/AndriyKalashnykov)
 
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*Last updated: 2026-02-26 17:38:18 UTC*
