@@ -1,10 +1,9 @@
-<h2>
-  Andriy Kalashnykov
-  <a href="https://hits.sh/github.com/AndriyKalashnykov/"><img alt="Hits" src="https://hits.sh/github.com/AndriyKalashnykov.svg?view=today-total&logo=github&style=plastic" align="right"/></a>
-  
-</h2>
-  
+## Andriy Kalashnykov
+
+<a href="https://hits.sh/github.com/AndriyKalashnykov/"><img alt="Hits" src="https://hits.sh/github.com/AndriyKalashnykov.svg?view=today-total&logo=github&style=plastic" align="right"/></a>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=AndriyKalashnykov&show_icons=true&theme=graywhite)
+
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKalashnykov&layout=compact&exclude_repo=osxcross-target&theme=graywhite&hide=html,groovy,xslt,css,javascript,C,Cpp,c++,R,Roff,Ruby,Rez,Objective-c,python&langs_count=6)
 
 <!--
