@@ -1,11 +1,5 @@
 <h2>
-  Andriy Kalashnykov
-  <table>
-    <tr style="text-align: right;">
-      <td><a href="https://hits.sh/github.com/AndriyKalashnykov/"><img alt="Hits" src="https://hits.sh/github.com/AndriyKalashnykov.svg?view=today-total&style=plastic"/></a></td>
-    </tr>
-  </table>
- 
+<a href="https://hits.sh/github.com/AndriyKalashnykov/"><img alt="Hits" src="https://hits.sh/github.com/AndriyKalashnykov.svg?view=today-total&style=plastic"/></a>
 </h2>
 
 
