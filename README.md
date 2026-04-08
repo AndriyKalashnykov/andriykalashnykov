@@ -46,7 +46,7 @@ Software engineer in Miami, FL building cloud-native systems, microservices, and
 
 ### GitHub Stats
 
-<table><tr><td width="50%" valign="top"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndriyKalashnykov&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" /></td><td width="50%" valign="top"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndriyKalashnykov&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=makefile&card_width=380" width="100%" alt="Top Languages" /></td></tr><tr><td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndriyKalashnykov&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak" /></td></tr></table>
+<table><tr><td width="50%" valign="top"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndriyKalashnykov&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" /></td><td width="50%" valign="top"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndriyKalashnykov&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=makefile&card_width=380" width="100%" alt="Top Languages" /></td></tr></table>
 
 ---
 
