@@ -3,8 +3,8 @@
 Software engineer in Miami, FL building cloud-native systems, microservices, and developer tooling. Currently focused on agentic AI, Kubernetes, and Go.
 
 [![Hits](https://hits.sh/github.com/AndriyKalashnykov.svg?view=today-total&style=flat-square)](https://hits.sh/github.com/AndriyKalashnykov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/andriykalashnykov)
 [![Twitter](https://img.shields.io/badge/@AKalashnykov-1DA1F2?logo=x&logoColor=white&style=flat-square)](https://twitter.com/AKalashnykov)
-[![Blog](https://img.shields.io/badge/yars.us-FF5722?logo=rss&logoColor=white&style=flat-square)](https://www.yars.us)
 
 ---
 
