@@ -50,10 +50,4 @@ Software engineer in Miami, FL building cloud-native systems, microservices, and
 
 ---
 
-### Featured Projects
-
-<table><tr><td width="50%" valign="top"><a href="https://github.com/AndriyKalashnykov/spring-microservices-k8s"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AndriyKalashnykov&repo=spring-microservices-k8s&theme=github_dark&hide_border=true" width="100%" alt="spring-microservices-k8s" /></a></td><td width="50%" valign="top"><a href="https://github.com/AndriyKalashnykov/kind-cluster"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AndriyKalashnykov&repo=kind-cluster&theme=github_dark&hide_border=true" width="100%" alt="kind-cluster" /></a></td></tr><tr><td width="50%" valign="top"><a href="https://github.com/AndriyKalashnykov/authentik-k8s"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AndriyKalashnykov&repo=authentik-k8s&theme=github_dark&hide_border=true" width="100%" alt="authentik-k8s" /></a></td><td width="50%" valign="top"><a href="https://github.com/AndriyKalashnykov/spring-on-k8s"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AndriyKalashnykov&repo=spring-on-k8s&theme=github_dark&hide_border=true" width="100%" alt="spring-on-k8s" /></a></td></tr><tr><td width="50%" valign="top"><a href="https://github.com/AndriyKalashnykov/go-kafka-confluent-examples"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AndriyKalashnykov&repo=go-kafka-confluent-examples&theme=github_dark&hide_border=true" width="100%" alt="go-kafka-confluent-examples" /></a></td><td width="50%" valign="top"><a href="https://github.com/AndriyKalashnykov/go-face-recognition"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AndriyKalashnykov&repo=go-face-recognition&theme=github_dark&hide_border=true" width="100%" alt="go-face-recognition" /></a></td></tr></table>
-
----
-
 <a href="https://profile-summary-for-github.com/user/AndriyKalashnykov">Detailed Profile Summary</a>
