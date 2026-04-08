@@ -4,7 +4,7 @@ Software engineer in Miami, FL building cloud-native systems, microservices, and
 
 [![Hits](https://hits.sh/github.com/AndriyKalashnykov.svg?view=today-total&style=flat-square)](https://hits.sh/github.com/AndriyKalashnykov/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/andriykalashnykov)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square)](https://twitter.com/AKalashnykov)
+[![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white&style=flat-square)](https://twitter.com/AKalashnykov)
 
 ---
 
