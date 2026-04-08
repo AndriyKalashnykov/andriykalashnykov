@@ -34,7 +34,6 @@ Software engineer in Miami, FL building cloud-native systems, microservices, and
 ### Frameworks & Tools
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 ![DAPR](https://img.shields.io/badge/DAPR-0D2192?logo=dapr&logoColor=white&style=flat-square)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
